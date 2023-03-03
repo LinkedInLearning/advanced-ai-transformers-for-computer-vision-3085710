@@ -1,34 +1,31 @@
 # Advanced AI: Transformers for Computer Vision
-This is the repository for the LinkedIn Learning course `Advanced AI: Transformers for Computer Vision`. The full course is available from [LinkedIn Learning][lil-course-url].
+This is the repository for the LinkedIn Learning course Advanced AI: Transformers for Computer Vision. The full course is available from [LinkedIn Learning][lil-course-url].
 
-_See the readme file in the main branch for updated instructions and information._
+![Advanced AI: Transformers for Computer Vision][lil-thumbnail-url] 
+
+Transformers are quickly becoming the go-to architecture for many computer vision tasks. If you work in the field, it’s a must-have skill to keep on hand in your AI toolkit. In this course, AI consultant Jonathan Fernandes takes you on a deep dive into the world of transfer learning and transformer model architecture.
+
+Explore the basics of computer vision, image datasets, preprocessing, and image fine-tuning, with hands-on examples and easy-to-follow demonstrations using Google Colab and the Hugging Face library. Discover tips and practical strategies for model training and testing as you go, building out your skill set with the popular inference modeling tools Gradio and Hugging Face Spaces. By the end of this course, you’ll be prepared to design and train larger, more advanced, more sophisticated language models.
+
 ## Instructions
-This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
-
-## Branches
-The branches are structured to correspond to the videos in the course. The naming convention is `CHAPTER#_MOVIE#`. As an example, the branch named `02_03` corresponds to the second chapter and the third video in that chapter. 
-Some branches will have a beginning and an end state. These are marked with the letters `b` for "beginning" and `e` for "end". The `b` branch contains the code as it is at the beginning of the movie. The `e` branch contains the code as it is at the end of the movie. The `main` branch holds the final state of the code when in the course.
-
-When switching from one exercise files branch to the next after making changes to the files, you may get a message like this:
-
-    error: Your local changes to the following files would be overwritten by checkout:        [files]
-    Please commit your changes or stash them before you switch branches.
-    Aborting
-
-To resolve this issue:
-	
-    Add changes to git using this command: git add .
-	Commit changes using this command: git commit -m "some message"
+If you're relatively new to Transformers and working with code, then a good starting point is using some of the Python packages developed by Hugging Face. Hugging Face is a company that gives you access to pre-trained models from their model hub. . We'll need to set up a Hugging Face account and access the Google CoLab notebook. There is a detailed walkthru in the LinkedIn Learning course videos.
 
 ## Installing
 1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
+	- Hugging Face account
+	- Google CoLab account
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
 
+### Instructor
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
+Jonathan Fernandes 
+                            
+Data Scientist
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+                            
+
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/jonathan-fernandes).
+
+[lil-course-url]: https://www.linkedin.com/learning/advanced-ai-transformers-for-computer-vision?dApp=59033956
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/C4E0DAQFM-TH6f9C3Vw/learning-public-crop_288_512/0/1677704525752?e=2147483647&v=beta&t=Zj9YAMB50yRyTjWn5q3jQ8KE-Jew5Oo2eM8aPu2VMIE
 
