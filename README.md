@@ -1,6 +1,8 @@
 # Advanced AI: Transformers for Computer Vision
 This is the repository for the LinkedIn Learning course Advanced AI: Transformers for Computer Vision. The full course is available from [LinkedIn Learning][lil-course-url].
 
+[This is the notebook for the course](https://colab.research.google.com/drive/18lcAtxvFn51-newA-r3ZW1wcimq3PsOT?usp=sharing)
+
 ![Advanced AI: Transformers for Computer Vision][lil-thumbnail-url] 
 
 Transformers are quickly becoming the go-to architecture for many computer vision tasks. If you work in the field, it’s a must-have skill to keep on hand in your AI toolkit. In this course, AI consultant Jonathan Fernandes takes you on a deep dive into the world of transfer learning and transformer model architecture.
@@ -15,6 +17,7 @@ If you're relatively new to Transformers and working with code, then a good star
 	- Hugging Face account
 	- Google CoLab account
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
+3. [This is the notebook for the course](https://colab.research.google.com/drive/18lcAtxvFn51-newA-r3ZW1wcimq3PsOT?usp=sharing)
 
 ### Instructor
 
