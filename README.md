@@ -1,4 +1,7 @@
 # Advanced AI: Transformers for Computer Vision
+
+[Here is the notebook for the course](https://colab.research.google.com/drive/18lcAtxvFn51-newA-r3ZW1wcimq3PsOT?usp=sharing)
+
 This is the repository for the LinkedIn Learning course Advanced AI: Transformers for Computer Vision. The full course is available from [LinkedIn Learning][lil-course-url].
 
 [Here is the notebook for the course](https://colab.research.google.com/drive/18lcAtxvFn51-newA-r3ZW1wcimq3PsOT?usp=sharing)
